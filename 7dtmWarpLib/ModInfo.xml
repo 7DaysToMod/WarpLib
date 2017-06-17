@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="7DTMWarpLib" />
+		<Description value="Warp Library for 7 Days To Die" />
+		<Author value="Justin 'Chromecide' Pradier" />
+		<Version value="1" />
+		<Website value="https://github.com/7DaysToMod/WarpLib" />
+	</ModInfo>
+</xml>
